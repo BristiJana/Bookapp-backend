@@ -14,7 +14,7 @@ This is the Django REST API backend for BookApp. It provides endpoints for manag
 1. **Clone the repository**
 
    ```sh
-   git clone <your-repo-url>
+   git clone <repo-url>
    cd bookapp
    ```
 
